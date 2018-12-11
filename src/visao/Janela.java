@@ -12,6 +12,8 @@ import server.Servidor;
 
 /**
  * 
+ * 		Janela responsável por iniciar os painéis, o servidor e o cliente.
+ * 
  * @author Guilherme Gomes
  *
  */
